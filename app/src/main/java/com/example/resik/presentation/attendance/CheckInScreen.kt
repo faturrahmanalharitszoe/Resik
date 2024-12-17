@@ -42,5 +42,6 @@ fun CheckInScreen(onNavigateBack: () -> Unit) {
             Spacer(modifier = Modifier.width(48.dp))
         }
         // Konten lainnya di halaman Check In
+
     }
 }
